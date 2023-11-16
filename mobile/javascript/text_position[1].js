@@ -1,1 +1,0 @@
-﻿positionForPages[1]={page:1,positions:[{word:"Yearbook",left:0.187125,top:0.437424,width:0.618317,height:0.120693},{word:"2023",left:0.630744,top:0.540273,width:0.162834,height:0.057938},{word:"SMPIT AL-HIKMAH PANGKAJENE",left:0.315245,top:0.398705,width:0.446465,height:0.022715},{word:"Berkarakter dan Berprestasi",left:0.216504,top:0.942847,width:0.573417,height:0.032093}]};
